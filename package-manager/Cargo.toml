@@ -1,6 +1,15 @@
 [package]
 name = "sunya-pkg"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+authors = ["basantpz"]
+license = "GPL-3.0"
+repository = "https://github.com/basantpz/sunya-linux"
+description = "Fast, memory-safe package manager for Sunya Linux"
 
 [dependencies]
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1

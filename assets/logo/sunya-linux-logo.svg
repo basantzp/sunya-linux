@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 640" role="img">
+  <title>Sunya Linux Logo</title>
+  
+  <!-- Full citrus slice -->
+  <g transform="translate(75 90)" fill="none" stroke="#25272A" stroke-linejoin="round">
+    <circle cx="240" cy="230" r="205" stroke-width="28"/>
+    <g fill="#A6E22E" stroke="#25272A" stroke-width="18">
+      <path d="M240 230 L240 72 Q311 82 360 131 L257 218 Q248 228 240 230Z"/>
+      <path d="M240 230 L375 148 Q416 207 405 275 L266 255 Q248 249 240 230Z"/>
+      <path d="M240 230 L392 302 Q359 361 294 384 L252 265 Q244 248 240 230Z"/>
+      <path d="M240 230 L276 393 Q208 406 144 370 L218 260 Q232 246 240 230Z"/>
+      <path d="M240 230 L120 347 Q75 294 82 226 L213 228 Q231 229 240 230Z"/>
+      <path d="M240 230 L99 202 Q120 137 178 100 L225 215 Q234 227 240 230Z"/>
+    </g>
+    <circle cx="216" cy="219" r="10" fill="#25272A"/>
+    <circle cx="264" cy="219" r="10" fill="#25272A"/>
+    <path d="M226 243 L240 261 L254 243 Z" fill="#25272A"/>
+  </g>
+
+  <!-- Half citrus slice -->
+  <g transform="translate(538 90)" fill="none" stroke="#25272A" stroke-linejoin="round">
+    <path d="M20 25 V435 H42 A205 205 0 0 0 42 25 Z" stroke-width="28"/>
+    <g fill="#A6E22E" stroke="#25272A" stroke-width="18">
+      <path d="M42 230 L42 72 Q113 82 162 131 L59 218 Q50 227 42 230Z"/>
+      <path d="M42 230 L177 148 Q218 207 207 275 L68 255 Q50 249 42 230Z"/>
+      <path d="M42 230 L194 302 Q161 361 96 384 L54 265 Q46 248 42 230Z"/>
+    </g>
+    <circle cx="77" cy="222" r="9" fill="#25272A"/>
+  </g>
+</svg>
